@@ -7,15 +7,15 @@ The task was to select an API and make anything we wanted with it!
 I decided to choose the dictionary app as I'm a big bookworm 🤓 and had wanted to do a project that incorporated dictionary data for a while.  <br />
 
 
-##---------- Funcionality ---------  <br />
+## ---------- Funcionality ---------  <br />
 The funcionality in this first version is essentially an MVP dictionary. You type a word in that you want a definition for and the defition appears below your search.  <br />
 
 
-##---------- Design ---------  <br />
+## ---------- Design ---------  <br />
 The title of the dictionary and the design is loosely based on the Merriam Webster online dictionary.  <br />
 
 
-##---------- Future Intentions ---------  <br />
+## ---------- Future Intentions ---------  <br />
 The functionality of the web app is the bare bones of a useful dictionary at the moment and I would like to add more functionality to the page.
 Here is a list of features I would like to incorporate soon: 
 
@@ -24,4 +24,3 @@ Here is a list of features I would like to incorporate soon:
 • have the dictionary search when the user clicks enter (at present the user must press the search button) <br />
 • have a prompt returned to the user if they misspell a word <br />
 • expand the design to incorporate more design features frm the Merriam Webster site <br />
-• 
