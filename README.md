@@ -1,5 +1,9 @@
 # SoCW2Hackathon-DictionaryWebApp
 
+This project is now available here: https://merryiamfetcher.netlify.app 🥳
+
+---
+
 (06/05/2022)  <br />
 This little web app is the result of a day's work (roughly ~4/5 hours) for a Friday Hackathon in week 2 of the 16 week School of Code bootcamp.
 
